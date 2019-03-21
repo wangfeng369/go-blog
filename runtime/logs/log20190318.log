@@ -1,0 +1,4 @@
+[INFO][main.go:59]2019/03/18 22:06:26 [[info] start http server listening %s :8000]
+[ERROR][auth.go:46]2019/03/18 22:07:03 [<nil>]
+[ERROR][auth.go:46]2019/03/18 22:07:08 [<nil>]
+[INFO][main.go:59]2019/03/18 22:10:35 [[info] start http server listening %s :8000]

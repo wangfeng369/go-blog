@@ -1,0 +1,17 @@
+2019-03-18 22:44:26 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 22:56:11 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 22:56:54 [INFO] [gin-blog/routers/api/auth.go:44] <nil>
+2019-03-18 22:57:42 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 22:57:56 [EROR] [gin-blog/routers/api/auth.go:44] <nil>
+2019-03-18 22:59:58 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 23:00:06 [EROR] [gin-blog/routers/api/auth.go:44] <nil>
+2019-03-18 23:13:19 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 23:13:37 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-18 23:18:54 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 21:22:03 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 21:22:17 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 21:22:21 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 21:22:23 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 21:36:28 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 22:01:53 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
+2019-03-19 22:01:57 [INFO] [gin-blog/main.go:60] [info] start http server listening :8000
